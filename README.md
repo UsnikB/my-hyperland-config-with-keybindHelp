@@ -1,4 +1,4 @@
-# rofi-hyprland-keybinds-cheatsheet
+# rofi-hyprland-keybinds-cheatsheet (not using anymore)
 
 This script provides a quick and efficient way for Hyprland users to access and execute keybindings defined in their Hyprland configuration file. By leveraging the power of Rofi, this tool presents a user-friendly interface to browse and activate various system commands and shortcuts, streamlining the user experience on Hyprland.
 
